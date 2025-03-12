@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app  # Monta todo el código en el contenedor
+    ports:
+      - "3000:3000"  # Expone el puerto 3000
+    command: npm run dev  # Ejecuta el comando de desarrollo en la raíz del proyecto

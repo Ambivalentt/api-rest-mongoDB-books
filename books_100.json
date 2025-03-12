@@ -1,0 +1,248 @@
+[
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "genre": "Fiction",
+      "year": 1605,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10134793-L.jpg"
+    },
+    {
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10121133-L.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10441483-L.jpg"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10477625-L.jpg"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "year": 1925,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10372268-L.jpg"
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical",
+      "year": 1869,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10543524-L.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Literary Fiction",
+      "year": 1951,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10441356-L.jpg"
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic",
+      "year": 1933,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10072794-L.jpg"
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological",
+      "year": 1866,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10477947-L.jpg"
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical",
+      "year": 1880,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10506413-L.jpg"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Horror",
+      "year": 1818,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10039067-L.jpg"
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10352350-L.jpg"
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Horror",
+      "year": 1897,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10392957-L.jpg"
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Philosophical Fiction",
+      "year": 1890,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10457234-L.jpg"
+    },
+    {
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "genre": "Epic Poetry",
+      "year": "1320",
+      "imageUrl": "https://covers.openlibrary.org/b/id/10232998-L.jpg"
+    },
+    {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "genre": "Historical Fiction",
+      "year": 1862,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10426821-L.jpg"
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "genre": "Adventure",
+      "year": 1844,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10426922-L.jpg"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Historical Fiction",
+      "year": 1960,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10115612-L.jpg"
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "genre": "Satire",
+      "year": 1961,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10576499-L.jpg"
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "year": 1932,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10102379-L.jpg"
+    },
+    {
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "genre": "Science Fiction",
+      "year": 1898,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10102960-L.jpg"
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian",
+      "year": 1953,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10424948-L.jpg"
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-apocalyptic",
+      "year": 2006,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10110788-L.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Literary Fiction",
+      "year": 1951,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10082771-L.jpg"
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Dystopian",
+      "year": 1985,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10441612-L.jpg"
+    },
+    {
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1977,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10461692-L.jpg"
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Dystopian",
+      "year": 2008,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10276672-L.jpg"
+    },
+    {
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy",
+      "year": 1996,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10430642-L.jpg"
+    },
+    {
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "genre": "Fantasy",
+      "year": 1950,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10037594-L.jpg"
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Young Adult",
+      "year": 2012,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10411883-L.jpg"
+    },
+    {
+      "title": "The Outsiders",
+      "author": "S.E. Hinton",
+      "genre": "Young Adult",
+      "year": 1967,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10437076-L.jpg"
+    },
+    {
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1945,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10127657-L.jpg"
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "genre": "Historical Fiction",
+      "year": 1939,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10469295-L.jpg"
+    },
+    {
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "genre": "Literary Fiction",
+      "year": 1937,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10126984-L.jpg"
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "genre": "Science Fiction",
+      "year": 1969,
+      "imageUrl": "https://covers.openlibrary.org/b/id/10047467-L.jpg"
+    }
+  ]
+  
