@@ -1,17 +1,18 @@
-require('dotenv').config();
+require('dotenv').config({path:'../.env'});
 const express = require('express');
 const connectDB = require('./db.js'); // Importar la conexión a la base de datos
-const path = require('path');
+const cors = require('cors');
+const bookRouter = require('./routes/bookRoutes.js'); // Importamos el enrutador de libros
 //const loadBooks = require('./json-uploader.js'); // Importamos la función para cargar los libros
-
-
 const app = express();
 
-app.use(express.static(path.join(__dirname, '../client/dist')));
 
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, '../client/dist', 'index.html'));
-})
+app.use(express.json());
+
+app.use(cors()) ;
+app.use('/books', bookRouter)
+
+
 
 
 //conectar servidor
